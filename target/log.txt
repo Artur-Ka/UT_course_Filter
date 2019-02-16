@@ -1,0 +1,23 @@
+INFO: [16-02-2019 22:51:51] Loaded banned ips: 0
+INFO: [16-02-2019 22:51:51] Banned ips file not found, created new file.
+INFO: [16-02-2019 22:51:51] ------------------------------------=[ WEB Server ]
+INFO: [16-02-2019 22:51:51] WEB Server started on port: 8080
+INFO: [16-02-2019 22:51:51] Server started in 210 milliseconds.
+INFO: [16-02-2019 22:51:58] Access allowed for address: 192.168.1.10
+INFO: [16-02-2019 22:52:01] Loaded banned ips: 0
+INFO: [16-02-2019 22:52:11] Loaded banned ips: 0
+INFO: [16-02-2019 22:52:14] Access allowed for address: 192.168.1.10
+INFO: [16-02-2019 22:52:21] Loaded banned ips: 0
+INFO: [16-02-2019 22:52:25] Access allowed for address: 192.168.1.2
+INFO: [16-02-2019 22:52:31] Loaded banned ips: 0
+INFO: [16-02-2019 22:52:41] Loaded banned ips: 0
+INFO: [16-02-2019 22:52:51] Loaded banned ips: 1
+INFO: [16-02-2019 22:52:53] Access disallowed for address: 192.168.1.2
+INFO: [16-02-2019 22:53:01] Loaded banned ips: 1
+INFO: [16-02-2019 22:53:11] Loaded banned ips: 1
+INFO: [16-02-2019 22:53:12] Access allowed for address: 192.168.1.10
+INFO: [16-02-2019 22:53:20] Access allowed for address: 192.168.1.10
+INFO: [16-02-2019 22:53:21] Loaded banned ips: 2
+INFO: [16-02-2019 22:53:25] Access disallowed for address: 192.168.1.10
+INFO: [16-02-2019 22:53:26] Access disallowed for address: 192.168.1.10
+INFO: [16-02-2019 22:53:31] Loaded banned ips: 2
